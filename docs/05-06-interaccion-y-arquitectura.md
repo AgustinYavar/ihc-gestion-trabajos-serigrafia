@@ -84,4 +84,4 @@ lista). Objetivo medible: registrar un trabajo con cliente existente en menos de
 - Cobrar: Cobros, elegir trabajo, "Enviar recordatorio", WhatsApp o correo.
 - Registrar pago: ficha del trabajo, "Registrar pago", monto.
 
-Diagrama: ver `../evidencias/diagrama-flujo.md`.
+Diagrama: ver `../evidencias/diagrama-flujo.png`.
